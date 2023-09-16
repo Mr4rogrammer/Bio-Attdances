@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835834454376",
+    "project_id": "deepa-attandance",
+    "storage_bucket": "deepa-attandance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835834454376:android:034e31a6cb33ff9f6e36dd",
+        "android_client_info": {
+          "package_name": "com.mrprogrammer.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835834454376-476vrh6qd9vt7q4f0r10vtfdpmo2tbkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrprogrammer.attendance",
+            "certificate_hash": "a1191464e487405006e2fc3253406bab9c09424f"
+          }
+        },
+        {
+          "client_id": "835834454376-jpg5sjpbju674dpll02et4h3ug4mhoji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-CZYYGdegdHWZUtk2Wm-maVPcQGd9No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835834454376-jpg5sjpbju674dpll02et4h3ug4mhoji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

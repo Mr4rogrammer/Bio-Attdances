@@ -16,6 +16,11 @@ class PostAttdance {
 
             val result = isBefore9AMOrAfter9AM()
 
+
+            if(!LocalFunctions.isConnected(context)) {
+                completeHandler.onFailure("Please connect to internet ..")
+            }
+
             if (!result) {
                 completeHandler.onFailure("Session Closed....")
                 return
